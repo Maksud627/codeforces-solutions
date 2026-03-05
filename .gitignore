@@ -1,0 +1,45 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+
+# Compiled binary/executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.log
+
+# Backup files
+*~
+*.swp
+*.swo
+
+# IDEs
+.vscode/
+*.code-workspace
+.idea/
+*.sln
+*.vcxproj*
+*.user
+*.filters
+
+# CMake build folders
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# MinGW / Windows specific
+*.pdb
+*.ilk
+*.idb
+
+# Misc
+*.tmp
+*.bak
